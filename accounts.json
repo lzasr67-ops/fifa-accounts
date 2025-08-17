@@ -15,8 +15,14 @@
     {
       "email": "yass33@gmail.com",
       "password": "Aa1122",
-      "duration": "2 months",
-      "expiry_date": "2025-02-28"
+      "duration": "8 months",
+      "expiry_date": "2025-11-28"
+    },
+  {
+      "email": "yass77@gmail.com",
+      "password": "Aa1122",
+      "duration": "1 year",
+      "expiry_date": "2025-12-31"
     }
   ]
 }
