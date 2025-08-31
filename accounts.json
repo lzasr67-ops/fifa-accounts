@@ -53,6 +53,12 @@
       "password": "Aa1122",
       "duration": "2 months",
       "expiry_date": "2025-10-28"
+    },
+ {
+      "email": "yass2000@gmail.com",
+      "password": "Aa1122",
+      "duration": "3 months",
+      "expiry_date": "2025-11-28"
     }
   ]
 }
